@@ -1,3 +1,3 @@
-# .github
+# Near Node Flash
 
-https://nearnodeflash.github.io/latest/
+View the latest documentation here: https://nearnodeflash.github.io/latest/
